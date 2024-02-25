@@ -1,0 +1,18 @@
+.element {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  border-radius: 100%;
+
+  transition: all 2000ms cubic-bezier(.07,.62,.43,.91);
+}
+
+.rock {
+  background: #B784B7;
+}
+.paper {
+  background: #E493B3;
+}
+.scissor {
+  background: #8E7AB5;
+}

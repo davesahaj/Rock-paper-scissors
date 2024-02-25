@@ -1,0 +1,28 @@
+import { Element } from "./element.js";
+import { init } from "./utils.js";
+init();
+
+new Element("rock");
+new Element("rock");
+new Element("rock");
+new Element("rock");
+new Element("paper");
+new Element("paper");
+new Element("paper");
+new Element("paper");
+new Element("scissor");
+new Element("scissor");
+new Element("scissor");
+new Element("scissor");
+new Element("rock");
+new Element("rock");
+new Element("rock");
+new Element("rock");
+new Element("paper");
+new Element("paper");
+new Element("paper");
+new Element("paper");
+new Element("scissor");
+new Element("scissor");
+new Element("scissor");
+new Element("scissor");
